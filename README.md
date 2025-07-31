@@ -7,6 +7,14 @@ This report presents an analysis of key performance indicators from Qubyteflow L
 The insights provide a basis for improving operational efficiency, optimizing carrier selection, and enhancing customer experience.
 
 
+![1001174994](https://github.com/user-attachments/assets/57975e8c-cd22-4d65-8ef3-5368686d41bc)
+![1001174995](https://github.com/user-attachments/assets/2c6f67ed-975d-48b9-8ea9-fb6ed8e94bdd)
+![1001174996](https://github.com/user-attachments/assets/75068710-2775-4234-859b-b8ce492591db)
+![1001174997](https://github.com/user-attachments/assets/980020a0-a638-44ff-b3c4-c5f95d2832fe)
+![1001174993](https://github.com/user-attachments/assets/74f6d74b-6c52-4e70-a3c7-82c62f18653d)
+
+
+
 ### Dataset
 Qubyteflow logistics dataset
 
