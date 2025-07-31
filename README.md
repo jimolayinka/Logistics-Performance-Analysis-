@@ -8,9 +8,15 @@ The insights provide a basis for improving operational efficiency, optimizing ca
 
 
 ### Dataset
+Qubyteflow logistics dataset
 
-Qubyteflow Logistics Dataset
 
+### Tools used
+- Excel for Cleaning 
+- PowerBI for analysis 
+
+
+### Discriptige/Exploratory Data Analysis 
 1. How many total shipments were processed within the reporting period, and what is the trend compared to previous periods?
 2. How many different logistics carriers are currently being utilized, and how does the carrier distribution affect efficiency and cost?
 3. What is the average delivery time across all shipments, and which carrier contributes most to delivery delays or efficiencies?
@@ -25,29 +31,9 @@ Qubyteflow Logistics Dataset
 12. How many shipments were delayed versus delivered on time, and what are the underlying causes for the delays?
 
 
-
-
-
-
-
-### Tools Used
-Excel, PowerBi
-
-### Descriptive/Exploratory Data Analysis 
-
 ### Data Analysis 
 - Cleaned with excel
 - Dashboard Report with PowerBI
-
-
-
-
-
-
-
-
-
-
 
 
 ### Findings
