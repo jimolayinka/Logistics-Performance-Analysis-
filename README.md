@@ -10,9 +10,26 @@ The insights provide a basis for improving operational efficiency, optimizing ca
 ### Dataset
 
 Qubyteflow Logistics Dataset
-### Analysis
+
+### Tools Used
+Excel, PowerBi
+
+### Descriptive/Exploratory Data Analysis 
+
+### Data Analysis 
 - Cleaned with excel
 - Dashboard Report with PowerBI
+
+
+
+
+
+
+
+
+
+
+
 
 ### Findings
 
@@ -45,3 +62,27 @@ Qubyteflow Logistics Dataset
 - On-Time Deliveries: 54.78% (2,739 shipments)
 
 ### Recommendations 
+
+1. Optimize Carrier Allocation
+- Prioritize FedEx and UPS for time-sensitive deliveries, as they demonstrate lower delivery durations.
+- Reduce reliance on USPS and Amazon for urgent shipments due to their longer delivery timelines.
+
+2. Address High Delay Rate
+- With 45.2% delayed shipments, initiate an audit on delivery routes and last-mile operations.
+- Implement tracking alerts and predictive delivery systems to preempt and communicate delays.
+
+3. Cost Reduction Strategy
+- Explore opportunities to renegotiate contracts with high-cost carriers.
+- Invest in route optimization software to reduce fuel and time costs, especially for frequent lanes.
+
+4. Complaint Analysis and Service Improvement
+- Conduct a root cause analysis of the 4.84% complaints to identify trends by carrier or region.
+- Provide additional training or support to carriers with higher complaint ratios.
+
+5. Fuel Efficiency Monitoring
+- Since fuel costs represent a significant portion of logistics expenditure, consider using eco-routing tools and fuel-efficient vehicles.
+- Promote alternative delivery modes (e.g., consolidated shipments) to reduce trip frequency.
+
+6. Performance Dashboard Review
+- Continuously monitor delivery times and complaint rates per carrier.
+- Add filters for regions, shipment types, or weight class to get deeper insights for future decisions.
