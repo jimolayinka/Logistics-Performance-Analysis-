@@ -11,6 +11,25 @@ The insights provide a basis for improving operational efficiency, optimizing ca
 
 Qubyteflow Logistics Dataset
 
+1. How many total shipments were processed within the reporting period, and what is the trend compared to previous periods?
+2. How many different logistics carriers are currently being utilized, and how does the carrier distribution affect efficiency and cost?
+3. What is the average delivery time across all shipments, and which carrier contributes most to delivery delays or efficiencies?
+4. What is the most frequent delivery duration, and how does it compare with the average and expected delivery benchmark?
+5. What is the total cost incurred for all shipments, and which carriers or shipment types contribute most to the exoenses?
+6. How much of the total logistics cost is attributed to fuel, and what patterns or routes influence fuel consumption the most?
+7. How has the shipment cost changed over time, and what internal or external factors influenced spikes or reductions in cost?
+8. Which carriers cover the longest distances, and is there a correlation between distance, delivery time, and cost
+9. Which carriers are most frequently used, and what drives their preference—cost, reliability, availability, or performance?
+10.Shipments ComplaintsWhat percentage of shipments resulted in customer complaints, and which carriers or routes are linked to these complaints?
+11. What is the average delivery duration for each carrier, and how do they compare in terms of speed and consistenc
+12. How many shipments were delayed versus delivered on time, and what are the underlying causes for the delays?
+
+
+
+
+
+
+
 ### Tools Used
 Excel, PowerBi
 
