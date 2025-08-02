@@ -103,7 +103,7 @@ Qubyteflow logistics dataset
 
 ### Thank you for reading, 
 
-#### You don't want to miss out on insightful recommendations for your datasets, now let discuss yiur business concern. I am here to make it decision easy making 
+#### You don't want to miss out on insightful recommendations for your datasets, now let discuss your business concern. I am here to make it decision easy making 
 
 
 
